@@ -15,7 +15,7 @@ Use starter code to start each section, and **final code to compare it with your
 
 ### Q3: What VSCode theme are you using? What about extensions and settings?
 
-**A:** I use [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) in this course. [Here is the complete VS Code setup for this course](vscode-setup.md).
+**A:** I use [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) in this course. [Here is the complete VS Code setup for this course]
 
 ### Q4: Can I see the final version of the Omnifood project?
 
