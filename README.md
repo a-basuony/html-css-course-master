@@ -11,7 +11,7 @@ Use starter code to start each section, and **final code to compare it with your
 
 ### Q2: I'm stuck! Where do I get help?
 
-**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**
+**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please 
 
 ### Q3: What VSCode theme are you using? What about extensions and settings?
 
