@@ -9,7 +9,6 @@ Use starter code to start each section, and **final code to compare it with your
 ## FAQ
 
 
-### Q2: I'm stuck! Where do I get help?
 
 **A:** Have you actually tried to fix the problem on your own? 
 
