@@ -10,7 +10,7 @@ Use starter code to start each section, and **final code to compare it with your
 
 
 
-**A:** Have you actually tried to fix the problem on your own? 
+**A:** Have you actually tried to fix 
 
 ### Q3: What VSCode theme are you using? What about extensions and settings?
 
