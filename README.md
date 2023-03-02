@@ -12,7 +12,7 @@ Use starter code to start each section, and **final code to compare it with your
 
 
 
-### Q3: What VSCode theme are you using? 
+
 
 **A:** I use [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) in this course. [Here is the complete VS Code setup for this course]
 
