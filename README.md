@@ -14,7 +14,6 @@ Use starter code to start each section, and **final code to compare it with your
 
 
 
-**A:** I use [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) in this course. [Here is the complete VS Code setup for this course]
 
 ### Q4: Can I see the final version 
 
